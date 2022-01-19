@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Retrofit</string>
+    <string name="getButton">Get</string>
+    <string name="postButton">Post</string>
+    <string name="putButton">Put</string>
+    <string name="patchButton">Patch</string>
+    <string name="deleteButton">Delete</string>
+</resources>
